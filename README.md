@@ -4,4 +4,4 @@ This is a group project for a business intellegence consulting company. Because 
 
 Technomogy used in the project: Gatsby.js, GraphQL, Figma, Contentful, Mailchimp, Netlify.
 
-# [Demo](https://competent-liskov-950895.netlify.app/)
+# [Demo](https://awesome-mahavira-48e62b.netlify.app/)
