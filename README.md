@@ -34,9 +34,9 @@ This is a group project for a business intellegence consulting company. Because 
 - Testing and Development: Jest for JavaScript testing to maintain code reliability. Storybook for developing and testing UI components.
 <br/>
 
-📖 Project Narrative
+📖 Project Story
 
-Developed for Pragmatic Intelligence Consulting, this project symbolizes a fusion of modern web technologies and business intelligence. It's an ongoing effort, reflecting continuous improvement and adaptation to evolving business needs. The website serves as a testament to collaborative innovation, with a focus on providing comprehensive business intelligence solutions.
+In this completed project for Pragmatic Intelligence Consulting, I worked alongside a team of developers and an external designer. My role was to design and develop key website components, specifically the Contact-card and Contact-form. Additionally, I was responsible for building the Contact page and enhancing the site's search engine optimization (SEO)
 
 
 
