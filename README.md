@@ -17,7 +17,7 @@ This is a group project for a business intellegence consulting company. Because 
 
 <br/>
 
-🔥Features
+## 🔥Features
 
 - Responsive Design: A fluid design ensuring accessibility on various devices.
 - Content Management: Integration with Contentful for dynamic content updates.
@@ -26,7 +26,10 @@ This is a group project for a business intellegence consulting company. Because 
 
 <br/>
 
-🛠 Tech Stack
+## 🛠 Tech Stack
+
+### Gatsby.js, React, GraphQL, Figma,styled-components, CMS (Contentful), Mailchimp, Jest, Netlify
+
 - Front-End: Utilizes Gatsby.js, Figma, React, GraphQL, styled-components. Gatsby.js for static site generation and React for dynamic UIs. GraphQL for data querying and styled-components for styling.
 
 - Back-End: Contentful for content management as a headless CMS. Netlify for website hosting and deployment.
@@ -34,7 +37,7 @@ This is a group project for a business intellegence consulting company. Because 
 - Testing and Development: Jest for JavaScript testing to maintain code reliability. Storybook for developing and testing UI components.
 <br/>
 
-📖 Project Story
+## 📖 Project Story
 
 In this completed project for Pragmatic Intelligence Consulting, I worked alongside a team of developers and an external designer. My role was to design and develop key website components, specifically the Contact-card and Contact-form. Additionally, I was responsible for building the Contact page and enhancing the site's search engine optimization (SEO)
 
