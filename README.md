@@ -1,6 +1,7 @@
 
 ## Business Consulting Intelligence Project
 
+<br/> <br/> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gatsby,graphql,react,styledcomponents,jest" />
   <br/>
@@ -11,7 +12,6 @@
 
 <br/> <br/> 
 
-<br/> <br/> 
 
 This is a group project for a business intellegence consulting company. Because of privacy reason we can't share code publicy.  site demo was deployed in netlify by removing copanies credentials and here is the demo link
 
