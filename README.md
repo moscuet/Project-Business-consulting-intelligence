@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gatsby,graphql,react,styledcomponents,jest" />
   <br/>
-  <a href="https://pragmaticintelligenceconsulting-demo.netlify.app/"><kbd>🟢 Live Demo</kbd></a>
-    <br/> 
+  <a href="https://awesome-mahavira-48e62b.netlify.app/"><kbd>🟢 Live Demo</kbd></a>
+    <br/>     <br/> 
   <span>Contentful</span> | <span>Mailchimp</span>
 </p>
 
