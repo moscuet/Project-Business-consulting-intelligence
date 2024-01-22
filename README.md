@@ -12,8 +12,7 @@
 
 <br/> <br/> 
 
-
-In this completed project for Pragmatic Intelligence Consulting, I worked alongside a team of developers and an external designer. My role was to design and develop key website components, specifically the Contact-card and Contact-form. Additionally, I was responsible for building the Contact page and enhancing the site's search engine optimization (SEO). Because of privacy reasons, we can't share the code publicly.  site demo was deployed in netlify by removing copanies credentials and here is the demo link [Live Demo](https://awesome-mahavira-48e62b.netlify.app/)
+This application boasts a responsive design and dynamic content updates through Contentful. It integrates Mailchimp for email marketing and implements advanced SEO strategies. The tech stack includes Gatsby.js, React, GraphQL, styled-components, Contentful, Mailchimp, Jest, and Netlify, offering a comprehensive solution for front-end, back-end, and testing needs. Because of privacy reasons, we can't share the code publicly.  site demo was deployed in netlify by removing copanies credentials and here is the demo link [Live Demo](https://awesome-mahavira-48e62b.netlify.app/)
 
 <br/>
 
