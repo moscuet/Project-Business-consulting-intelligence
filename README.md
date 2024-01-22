@@ -13,7 +13,7 @@
 <br/> <br/> 
 
 
-This is a group project for a business intellegence consulting company. Because of privacy reason we can't share code publicy.  site demo was deployed in netlify by removing copanies credentials and here is the demo link [Live Demo](https://awesome-mahavira-48e62b.netlify.app/)
+In this completed project for Pragmatic Intelligence Consulting, I worked alongside a team of developers and an external designer. My role was to design and develop key website components, specifically the Contact-card and Contact-form. Additionally, I was responsible for building the Contact page and enhancing the site's search engine optimization (SEO). Because of privacy reasons, we can't share the code publicly.  site demo was deployed in netlify by removing copanies credentials and here is the demo link [Live Demo](https://awesome-mahavira-48e62b.netlify.app/)
 
 <br/>
 
